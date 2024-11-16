@@ -29,7 +29,7 @@ module.exports = {
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "true",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
-  packname: process.env.packname || "Janidu Sevinda",
+  packname: process.env.packname || "RED-GUARDIAN",
   author: process.env.author || "Janidu Sevinda",
   //==========================================- API-CONFIGS -==========================================================
   OPENWEATHER_API_KEY: process.env.OPENWEATHER_API_KEY || "2d61a72574c11c4f36173b627f8cb177", //openweathermap.org
