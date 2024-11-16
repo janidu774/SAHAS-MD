@@ -1,6 +1,6 @@
 {
-  "name": "RED-GUARDIAN",
-  "description": "Javascript WhatsApp bot made by Janidu Sevinda",
+  "name": "SAHAS-MD",
+  "description": "Javascript WhatsApp bot made by ",
   "logo": "https://telegra.ph/file/1e4ba22b080c8fd6134f2.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -94,12 +94,12 @@
     "packname": {
       "description": "Pack name for your bot",
       "required": false,
-      "default": "RED-GUARDIAN"
+      "default": "SAHAS TECH"
     },
     "author": {
       "description": "Author name for your bot",
       "required": false,
-      "default": "Janidu Sevinda"
+      "default": "SAHAS TECH"
     },
     "OPENWEATHER_API_KEY": {
       "description": "API key for OpenWeather",
